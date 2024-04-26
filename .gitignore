@@ -1,0 +1,39 @@
+/topboost-backend-laravel/node_modules
+/topboost-backend-laravel/public/hot
+/topboost-backend-laravel/public/storage
+/topboost-backend-laravel/storage/*.key
+/topboost-backend-laravel/vendor
+/topboost-backend-laravel/.env
+/topboost-backend-laravel/.env.backup
+/topboost-backend-laravel/.phpunit.result.cache
+/topboost-backend-laravel/docker-compose.override.yml
+/topboost-backend-laravel/Homestead.json
+/topboost-backend-laravel/Homestead.yaml
+/topboost-backend-laravel/npm-debug.log
+/topboost-backend-laravel/yarn-error.log
+/topboost-backend-laravel/.idea
+/topboost-backend-laravel/.vscode
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/topboost-frontend-react/node_modules
+/topboost-frontend-react/.pnp
+/topboost-frontend-react/.pnp.js
+
+# testing
+/topboost-frontend-react/coverage
+
+# production
+/topboost-frontend-react/build
+
+# misc
+/topboost-frontend-react/.DS_Store
+/topboost-frontend-react/.env.local
+/topboost-frontend-react/.env.development.local
+/topboost-frontend-react/.env.test.local
+/topboost-frontend-react/.env.production.local
+
+/topboost-frontend-react/npm-debug.log*
+/topboost-frontend-react/yarn-debug.log*
+/topboost-frontend-react/yarn-error.log*
