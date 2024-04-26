@@ -28,6 +28,7 @@
 /topboost-frontend-react/build
 
 # misc
+/topboost-frontend-react/.env
 /topboost-frontend-react/.DS_Store
 /topboost-frontend-react/.env.local
 /topboost-frontend-react/.env.development.local
